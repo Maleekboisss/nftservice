@@ -1,0 +1,15 @@
+.upper-page {
+    background-image: url("Assets/images/background.png");
+    background-size: cover;
+}
+
+.bottom-page {
+    background-color: MidnightBlue;
+}
+
+.footer-container {
+    background-image: url("Assets/images/background.png");
+    background-size: cover;
+}
+
+
